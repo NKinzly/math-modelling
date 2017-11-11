@@ -1,1 +1,6 @@
 // Route 10 elements
+bs .5 //Schwartz
+cw .5 //Near Schwartz
+rd 25 85 0 //College ave
+sl .5 false //college town
+rd 25 450 -28
